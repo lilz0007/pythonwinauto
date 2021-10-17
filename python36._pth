@@ -1,0 +1,10 @@
+python36
+.
+
+# Uncomment to run site.main() automatically
+#import site
+lib\site-packages
+lib\site-packages\win32
+lib\site-packages\win32\lib
+lib\site-packages\Pythonwin
+lib\site-packages\win32\test
